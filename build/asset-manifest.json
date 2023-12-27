@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word_Character_Count_website/static/css/main.f855e6bc.css",
+    "main.js": "/Word_Character_Count_website/static/js/main.42da4087.js",
+    "static/js/787.fb768f3e.chunk.js": "/Word_Character_Count_website/static/js/787.fb768f3e.chunk.js",
+    "index.html": "/Word_Character_Count_website/index.html",
+    "main.f855e6bc.css.map": "/Word_Character_Count_website/static/css/main.f855e6bc.css.map",
+    "main.42da4087.js.map": "/Word_Character_Count_website/static/js/main.42da4087.js.map",
+    "787.fb768f3e.chunk.js.map": "/Word_Character_Count_website/static/js/787.fb768f3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.42da4087.js"
+  ]
+}
